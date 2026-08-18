@@ -1,7 +1,7 @@
 class Student 
 {
 	public static void main(String[] args) 
-	{
-		System.out.println("print marks");
+	{   
+		System.out.println("print usn");
 	}
 }
