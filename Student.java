@@ -2,6 +2,6 @@ class Student
 {
 	public static void main(String[] args) 
 	{   
-		System.out.println("print name");
+		System.out.println("print college");
 	}
 }
